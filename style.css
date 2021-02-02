@@ -59,6 +59,7 @@ ul li{
 @media(max-width:400px){
 div img{
     width: 203%;
-   margin:10px -52%
+   margin:10px -52%;
+   max-width: 200%;
 }
 }
