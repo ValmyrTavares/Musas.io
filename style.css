@@ -60,6 +60,6 @@ ul li{
 div img{
     width: 203%;
    margin:10px -52%;
-   max-width: 200%;
+   max-width:200% !important;
 }
 }
