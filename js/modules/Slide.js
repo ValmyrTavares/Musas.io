@@ -28,7 +28,7 @@ export default class Slide{
 
     setImg(){
         this.stopSlide = setInterval(()=>{
-            if(this.cont>9)this.cont=0
+            if(this.cont>10)this.cont=0
             this.img.forEach(item=>{
             item.classList.remove("show")
             })
